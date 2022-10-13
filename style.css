@@ -50,3 +50,15 @@ header{
 
 }
 /* women jecket section end */
+/* men jecket section start */
+
+/* men jecket section end */
+/* footer start  */
+.f-text{
+    color: #3E3E3E;
+        font-family: 'Roboto', sans-serif;
+        font-size: 16px;
+        line-height: 22px;
+        text-align: left;
+}
+/* footer end */
